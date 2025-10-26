@@ -44,4 +44,8 @@ source .venv/bin/activate       # Linux/macOS
 # Install dependencies
 pip install -r requirements.txt
 ```
+---
+## License
 
+This project is released under the **MIT License**.  
+See the [LICENSE](./LICENSE) file for details.
